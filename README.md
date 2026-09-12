@@ -9,9 +9,10 @@ First clone the repository.
 ```bash
 git clone https://github.com/Xermy/Unit-Conversion-in-Mojo.git
 ```
-Change into the project directory and activate the pixi environment.
+Change into the project directory and run the following commands.
 ```bash
-cd 'Unit-Conversion-in-Mojo' && pixi shell
+cd Unit-Conversion-in-Mojo
+pixi shell
 ```
 Then build the main file.
 ```bash
